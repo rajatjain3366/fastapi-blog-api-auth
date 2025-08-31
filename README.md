@@ -32,6 +32,5 @@ This project is perfect for learning FastAPI fundamentals and showcasing API dev
 
 ### 1️⃣ Clone repository
 ```bash
-git clone https://github.com/<your-username>/fastapi-blog-crud-auth.git
-cd fastapi-blog-crud-auth
-
+git clone https://github.com/rajatjain3366/fastapi-blog-api-auth.git
+cd fastapi-blog-api-auth
